@@ -1,0 +1,33 @@
+{
+  "item.aizen_stand.stand_arrow": "Стрела Стенда",
+  "entity.aizen_stand.aizen_stand": "Владыка Небес",
+  "category.aizen_stand": "Стенд Айзена",
+  "key.aizen_stand.summon": "Вызвать / убрать стенд",
+  "key.aizen_stand.hado90": "Хадо №90: Курохицуги",
+  "key.aizen_stand.hado99": "Хадо №99: Горютенмецу",
+
+  "message.aizen_stand.awakened": "Стрела пронзает тебя... пробуждается твой стенд: Владыка Небес.",
+  "message.aizen_stand.awakened_hint": "Нажми G, чтобы вызвать стенд",
+  "message.aizen_stand.already_awakened": "У тебя уже есть стенд.",
+  "message.aizen_stand.no_stand": "У тебя нет стенда. Сначала используй Стрелу Стенда (ПКМ).",
+  "message.aizen_stand.need_summon": "Сначала вызови стенд (G).",
+  "message.aizen_stand.summoned": "Владыка Небес",
+  "message.aizen_stand.dismissed": "Стенд растворяется.",
+  "message.aizen_stand.cooldown": "Ещё не готово: %s с",
+  "message.aizen_stand.no_reiatsu": "Не хватает реацу (нужно %s)",
+
+  "chant.aizen_stand.hado90.1": "Тьма, что старше света, сомкнись над теми, кто смеет стоять...",
+  "chant.aizen_stand.hado90.2": "Пусть каждый шаг станет цепью, а каждый вдох — стеной...",
+  "chant.aizen_stand.hado90.3": "Хадо №90: Курохицуги",
+  "chant.aizen_stand.hado99.1": "Пять драконов небесного гнева, расправьте крылья...",
+  "chant.aizen_stand.hado99.2": "Пожрите небо, землю и имя того, кто передо мной...",
+  "chant.aizen_stand.hado99.3": "Хадо №99: Горютенмецу",
+
+  "hud.aizen_stand.reiatsu": "Реацу: %s",
+  "hud.aizen_stand.summon": "[%s] Владыка Небес: %s",
+  "hud.aizen_stand.hado90": "[%s] Хадо 90: %s",
+  "hud.aizen_stand.hado99": "[%s] Хадо 99: %s",
+  "hud.aizen_stand.on": "ВКЛ",
+  "hud.aizen_stand.off": "ВЫКЛ",
+  "hud.aizen_stand.ready": "ГОТОВО"
+}

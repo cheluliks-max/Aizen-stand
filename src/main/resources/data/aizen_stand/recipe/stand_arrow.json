@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " D ",
+    "GSG",
+    " F "
+  ],
+  "key": {
+    "D": { "item": "minecraft:diamond" },
+    "G": { "item": "minecraft:gold_ingot" },
+    "S": { "item": "minecraft:stick" },
+    "F": { "item": "minecraft:feather" }
+  },
+  "result": {
+    "id": "aizen_stand:stand_arrow",
+    "count": 1
+  }
+}

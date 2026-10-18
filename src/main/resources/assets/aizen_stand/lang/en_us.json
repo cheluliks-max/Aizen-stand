@@ -1,0 +1,33 @@
+{
+  "item.aizen_stand.stand_arrow": "Stand Arrow",
+  "entity.aizen_stand.aizen_stand": "Sovereign Heaven",
+  "category.aizen_stand": "Aizen Stand",
+  "key.aizen_stand.summon": "Summon / dismiss stand",
+  "key.aizen_stand.hado90": "Hado #90: Kurohitsugi",
+  "key.aizen_stand.hado99": "Hado #99: Goryutenmetsu",
+
+  "message.aizen_stand.awakened": "The arrow pierces you... your stand awakens: Sovereign Heaven.",
+  "message.aizen_stand.awakened_hint": "Press G to summon the stand",
+  "message.aizen_stand.already_awakened": "You already have a stand.",
+  "message.aizen_stand.no_stand": "You have no stand. Right-click a Stand Arrow first.",
+  "message.aizen_stand.need_summon": "Summon the stand first (G).",
+  "message.aizen_stand.summoned": "Sovereign Heaven",
+  "message.aizen_stand.dismissed": "The stand fades away.",
+  "message.aizen_stand.cooldown": "Not ready yet: %s s",
+  "message.aizen_stand.no_reiatsu": "Not enough reiatsu (need %s)",
+
+  "chant.aizen_stand.hado90.1": "Darkness older than light, close over those who dare to stand...",
+  "chant.aizen_stand.hado90.2": "Let every step become a chain, let every breath become a wall...",
+  "chant.aizen_stand.hado90.3": "Hado #90: Kurohitsugi",
+  "chant.aizen_stand.hado99.1": "Five dragons of heaven's wrath, unfold your wings...",
+  "chant.aizen_stand.hado99.2": "Devour the sky, the earth and the name of the one before me...",
+  "chant.aizen_stand.hado99.3": "Hado #99: Goryutenmetsu",
+
+  "hud.aizen_stand.reiatsu": "Reiatsu: %s",
+  "hud.aizen_stand.summon": "[%s] Sovereign Heaven: %s",
+  "hud.aizen_stand.hado90": "[%s] Hado 90: %s",
+  "hud.aizen_stand.hado99": "[%s] Hado 99: %s",
+  "hud.aizen_stand.on": "ON",
+  "hud.aizen_stand.off": "OFF",
+  "hud.aizen_stand.ready": "READY"
+}

@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "aizen_stand",
+  "version": "${version}",
+  "name": "Aizen Stand: Sovereign Heaven",
+  "description": "JoJo-style stand of Sosuke Aizen: Stand Arrow, G to summon, Hado #90 and #99, reiatsu pressure.",
+  "authors": ["you"],
+  "license": "All-Rights-Reserved",
+  "icon": "assets/aizen_stand/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.aizenstand.AizenStandMod"],
+    "client": ["com.aizenstand.client.AizenStandClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": ["1.21", "1.21.1"],
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
